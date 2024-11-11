@@ -79,4 +79,4 @@ fabric.properties
 
 /start.bat
 /venv
-/venv*
+/venv/*
