@@ -9,13 +9,13 @@ Bat-to-start is a Python package that helps with manual task of creating batch-s
 Use [pip](https://pip.pypa.io/en/stable/) to install bat-to-start.
 
 ```bash
-pip install BatToStart
+pip install battostart
 ```
 
 ## Usage
 
 ```bash
-python3 -m BatToStart
+python3 -m battostart
 ```
 
 ## Contributing
